@@ -10,6 +10,16 @@ Cambridge Monorail is a collection of experiments, prototypes, and occasionally 
 
 <br>
 
+## Featured Project
+
+**[React Weapons of Choice](https://github.com/CambridgeMonorail/react-weapons-of-choice)** – Production-ready React monorepo boilerplate
+
+A fully-configured starting point for React SPAs using **Nx 22**, **Tailwind CSS v4**, and **shadcn/ui**. Includes comprehensive GitHub Copilot agents, automated CI/CD, Lighthouse audits, and extensive documentation. Just completed a 2026 modernization with the latest tooling.
+
+[→ View Demo](https://cambridgemonorail.github.io/react-weapons-of-choice/) · [→ Read Docs](https://github.com/CambridgeMonorail/react-weapons-of-choice#readme)
+
+<br>
+
 ## The Questions
 
 Most of the work here circles a few recurring themes:
@@ -31,7 +41,7 @@ Where do design systems, accessibility, and engineering decisions actually colli
 ## What You'll Find
 
 **Monorepos & Templates**  
-Nx monorepos and React application scaffolding that doesn't get in your way
+[Production-ready React monorepo boilerplate](https://github.com/CambridgeMonorail/react-weapons-of-choice) with Nx, Tailwind v4, and automated workflows that doesn't get in your way
 
 **UI/UX Prototypes**  
 Design explorations built with Tailwind, shadcn/ui, and an unhealthy attention to detail
